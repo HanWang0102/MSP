@@ -1,0 +1,5 @@
+ {"soft"} {"mask"} 疾病 : {"placeholder": "text_a"}
+ {"placeholder": "text_a"} 科室{"soft"} {"mask"} .
+  {"placeholder": "text_a"} {"soft"} {"mask"} .
+ {"placeholder": "text_a"} {"soft"}关于 {"mask"} .
+ 这个症状 {"placeholder": "text_a"} 的种类{"soft"} {"mask"}.

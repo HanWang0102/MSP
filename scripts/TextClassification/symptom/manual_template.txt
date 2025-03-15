@@ -1,0 +1,5 @@
+ 一个 {"mask"} 问题 : {"placeholder": "text_a"}
+ {"placeholder": "text_a"} 科室： {"mask"} .
+  {"placeholder": "text_a"} 种类： {"mask"} .
+ {"placeholder": "text_a"} 病情关于 {"mask"} .
+ 这个症状 {"placeholder": "text_a"} 的种类是 {"mask"}.
